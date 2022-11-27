@@ -1,5 +1,5 @@
 ### Hi there ou 👋
-![Alt Text](https://giphy.com/gifs/season-14-the-simpsons-14x2-l2Jeev6AvurRQMgEM.jp)
+![Alt Text](https://giphy.com/media/season-14-the-simpsons-14x2-l2Jeev6AvurRQMgEM.jp)
 
 <!--
 **GLTdotNS/GLTdotNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
