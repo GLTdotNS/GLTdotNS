@@ -4,8 +4,8 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 jobs:
-  build: Build for Android 
-    name: 
+  build:  
+    name: Build for Android
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
