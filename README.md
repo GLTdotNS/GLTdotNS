@@ -1,8 +1,6 @@
 ### Hi there ou 👋
 ![Alt Text](https://external-preview.redd.it/oIb2EGKj0mWEwnEFIfhrflUPj_M2LF-HnOT2lFAoufI.gif?format=mp4&s=a7a009616da1a8bd40521c57732cda219bf638c4)
 
-
-  🔭 I’m currently working on me
  
 <p align="left">
 </p>
