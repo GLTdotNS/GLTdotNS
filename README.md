@@ -26,8 +26,8 @@ Check out some of my highlighted projects:
    Description: Strivenex is my personal freelance platform where I connect with clients and work on various projects. It serves as a hub for showcasing my skills, managing projects, and collaborating with clients to deliver high-quality work.
 
    
-2. 🚀 [Mythical Musings](https://www.noncreativeblog.net)
-   Description: Mythical Musings is my personal blog dedicated to exploring the rich tapestry of Scandinavian mythology. Join me as I delve into the realms of gods, giants, and legendary creatures, sharing tales, insights, and interpretations of these ancient stories.
+2. 🚀 [NONCREATIVEBLOG](https://www.noncreativeblog.net)
+   Description:NONCREATIVEBLOG is my personal blog dedicated to exploring the rich tapestry of Scandinavian mythology. Join me as I delve into the realms of gods, giants, and legendary creatures, sharing tales, insights, and interpretations of these ancient stories.
 
 
 ## Let's Connect
