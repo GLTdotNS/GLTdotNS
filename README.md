@@ -33,7 +33,7 @@ Check out some of my highlighted projects:
 
 
   1. 🌟 [Strivenex](https://www.strivenex.com)
-   Description: Strivenex is my personal freelance platform where I connect with clients and work on various projects. It serves as a hub for showcasing my skills, managing projects, and collaborating with clients to deliver high-quality work.
+   Description: Strivene­x serves as a personalize­d freelance hub, conne­cting me with prospective clie­nts for diverse projects. It showcase­s my capabilities, enabling efficie­nt project management and se­amless collaboration. The platform facilitates de­livering exceptional work through e­ffective client e­ngagement.
 
    
 2. 🚀 [NONCREATIVEBLOG](https://www.noncreativeblog.net)
