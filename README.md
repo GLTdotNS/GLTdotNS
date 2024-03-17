@@ -1,9 +1,9 @@
 <p align="left">
 </p>
 
-# Hi there! 👋
+# Hi there ou! 👋
 
-Welcome to my GitHub profile! I'm Georgi, known as GLTdotNS, a JS Ninja
+Welcome to my GitHub profile! I'm Georgi Tonkov, a JS Ninja
 
 ## About Me
 
@@ -21,7 +21,7 @@ Here are some technologies I enjoy working with:
 
 Check out some of my highlighted projects:
 
-1. 🌟 [Project 1 Name](link)
+1. 🌟 [Strivenex]([link](https://strivenex.com/))
    Description: Brief description of the project.
    
 2. 🚀 [Project 2 Name](link)
