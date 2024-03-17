@@ -2,8 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
 [![GitHub stars](https://img.shields.io/github/stars/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
-[![GitHub followers](https://img.shields.io/github/followers/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
-[![GitHub stars](https://img.shields.io/github/stars/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GLTdotNS/GLTdotNS.svg)](https://github.com/GLTdotNS/GLTdotNS)
+[![GitHub issues](https://img.shields.io/github/issues/GLTdotNS/GLTdotNS.svg)](https://github.com/GLTdotNS/GLTdotNS/issues)
+
 
 
 
