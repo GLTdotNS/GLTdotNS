@@ -1,5 +1,3 @@
-### Hi there ou 👋
-![Alt Text](https://external-preview.redd.it/oIb2EGKj0mWEwnEFIfhrflUPj_M2LF-HnOT2lFAoufI.gif?format=mp4&s=a7a009616da1a8bd40521c57732cda219bf638c4)
 
  
 <p align="left">
@@ -10,7 +8,7 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Job Title or Profession] passionate about [Your Interests or Expertise]. Feel free to explore my repositories and contributions below.
+Welcome to my GitHub profile! I'm [Your Name], known as GLTdotNS, a [Your Job Title or Profession] passionate about [Your Interests or Expertise]. Feel free to explore my repositories and contributions below.
 
 ## About Me
 
@@ -38,7 +36,7 @@ Check out some of my highlighted projects:
 
 ## My Contributions
 
-Below is a visual representation of my contributions using a snake graph.
+Below is a visual representation of my contributions:
 
 ![Snake animation](https://github.com/GLTdotNS/GLTdotNS/blob/output/github-contribution-grid-snake.svg)
 
@@ -59,3 +57,4 @@ If you find my work helpful or interesting, you can support me by:
 - 💬 Engaging with me on social media
 
 Thank you for visiting my profile! Have a great day! 🎉
+
