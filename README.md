@@ -21,11 +21,14 @@ Here are some technologies I enjoy working with:
 
 Check out some of my highlighted projects:
 
-1. 🌟 [Strivenex]([link](https://www.strivenex.com))
-   Description: Brief description of the project.
+
+  1. 🌟 [Strivenex](https://www.strivenex.com)
+   Description: Strivenex is my personal freelance platform where I connect with clients and work on various projects. It serves as a hub for showcasing my skills, managing projects, and collaborating with clients to deliver high-quality work.
+
    
-2. 🚀 [Project 2 Name](link)
-   Description: Brief description of the project.
+2. 🚀 [Mythical Musings](https://www.noncreativeblog.net)
+   Description: Mythical Musings is my personal blog dedicated to exploring the rich tapestry of Scandinavian mythology. Join me as I delve into the realms of gods, giants, and legendary creatures, sharing tales, insights, and interpretations of these ancient stories.
+
 
 ## Let's Connect
 
@@ -33,7 +36,7 @@ Feel free to reach out and connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/georgi-tonkov/)
 
-- [Portfolio Website](link)
+- [Portfolio Website](https://wwww.canislupus.dev)
 
 ## Support Me
 
