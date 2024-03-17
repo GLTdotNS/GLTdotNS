@@ -1,5 +1,8 @@
-<p align="left">
-</p>
+
+[![GitHub stars](https://img.shields.io/github/stars/GLTdotNS/your_repository.svg?style=social)](https://github.com/GLTdotNS/your_repository)
+[![GitHub forks](https://img.shields.io/github/forks/GLTdotNS/your_repository.svg?style=social)](https://github.com/GLTdotNS/your_repository)
+[![GitHub watchers](https://img.shields.io/github/watchers/GLTdotNS/your_repository.svg?style=social)](https://github.com/GLTdotNS/your_repository)
+
 
 # Hi there ou! 👋
 
