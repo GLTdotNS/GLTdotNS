@@ -1,9 +1,5 @@
-
- 
 <p align="left">
 </p>
-
-
 
 # Hi there! 👋
 
@@ -35,7 +31,7 @@ Check out some of my highlighted projects:
 
 Feel free to reach out and connect with me on:
 
-- [LinkedIn]([link](https://www.linkedin.com/in/georgi-tonkov/)
+- [LinkedIn](https://www.linkedin.com/in/georgi-tonkov/)
 
 - [Portfolio Website](link)
 
@@ -44,8 +40,5 @@ Feel free to reach out and connect with me on:
 If you find my work helpful or interesting, you can support me by:
 
 - ⭐️ Starring some of my repositories
-- 📢 Support me here ([link]((https://www.noncreativeblog.net/donate))
+- 📢 Support me here ([link](https://www.noncreativeblog.net/donate))
 - 💬 Engaging with me on social media
-
-
-
