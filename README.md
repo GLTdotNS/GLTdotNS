@@ -46,7 +46,7 @@ Feel free to reach out and connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/georgi-tonkov/)
 
-- [Portfolio Website](https://wwww.canislupus.dev)
+- [Portfolio Website](https://www.canislupus.dev)
 
 ## Support Me
 
