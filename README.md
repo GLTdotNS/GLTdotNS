@@ -12,11 +12,11 @@
 
 Welcome to my GitHub profile! I'm Georgi Tonkov, a JS Ninja
 
-## About Me
+🌟 Key Skills and Interests:
 
-- 🌟 [Your Key Skill or Interest]
-- 💼 [Your Current Job or Major Project]
-- 🎓 [Any relevant education or certifications]
+🌟 JavaScript Enthusiast
+🌟 Frontend Development
+🌟 Web Application Development
 
 <h3 align="left">Languages and Tools:</h3>
 
