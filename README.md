@@ -40,7 +40,7 @@ Check out some of my highlighted projects:
 
 Below is a visual representation of my contributions using a snake graph.
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GLTdotNS/GLTdotNS/blob/output/github-contribution-grid-snake.svg)
 
 ## Let's Connect
 
