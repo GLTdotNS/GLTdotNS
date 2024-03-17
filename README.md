@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
 [![GitHub stars](https://img.shields.io/github/stars/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
-[![GitHub forks](https://img.shields.io/github/forks/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
-[![GitHub watchers](https://img.shields.io/github/watchers/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
+[![GitHub followers](https://img.shields.io/github/followers/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
+[![GitHub stars](https://img.shields.io/github/stars/GLTdotNS.svg?style=social)](https://github.com/GLTdotNS)
 
 
 
