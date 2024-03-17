@@ -21,7 +21,7 @@ Here are some technologies I enjoy working with:
 
 Check out some of my highlighted projects:
 
-1. 🌟 [Strivenex]([link](https://strivenex.com/))
+1. 🌟 [Strivenex]([link](https://www.strivenex.com))
    Description: Brief description of the project.
    
 2. 🚀 [Project 2 Name](link)
