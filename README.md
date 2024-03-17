@@ -37,7 +37,7 @@ Check out some of my highlighted projects:
 
    
 2. 🚀 [NONCREATIVEBLOG](https://www.noncreativeblog.net)
-   Description:NONCREATIVEBLOG is my personal blog dedicated to exploring the rich tapestry of Scandinavian mythology. Join me as I delve into the realms of gods, giants, and legendary creatures, sharing tales, insights, and interpretations of these ancient stories.
+   Description: NONCREATIVEBLOG is blog gives me complete freedom for customization and allows visitors to explore my information and ideas in their own web environment without using off-the-shelf platforms.
 
 
 ## Let's Connect
