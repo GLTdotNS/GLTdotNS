@@ -53,8 +53,9 @@ Here are some technologies I enjoy working with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="70" height="70"/>
   </a>
 <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/network.svg" alt="Network Icon" width="70" height="70"/>
+  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Network Icon" width="70" height="70"/>
 </a>
+
 
 
 
