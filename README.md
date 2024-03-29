@@ -34,6 +34,9 @@ Here are some technologies I enjoy working with:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="70" height="70"/>
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://material-ui.com/static/logo.png" alt="mui" width="70" height="70"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
   </a>
@@ -41,6 +44,7 @@ Here are some technologies I enjoy working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
