@@ -52,12 +52,11 @@ Here are some technologies I enjoy working with:
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="70" height="70"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/ethernet.png" alt="computer-networks" width="70" height="70"/>
-  </a>
-  <a href="https://www.contentful.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/contentful/contentful-icon.svg" alt="contentful" width="70" height="70"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/IPv6_Address.svg/1200px-IPv6_Address.svg.png" alt="IPv6 Address" width="70" height="70"/>
+</a>
+
+
 </p>
 
 
