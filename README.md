@@ -65,6 +65,7 @@ Here are some technologies I enjoy working with:
 
 </p>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GLTdotNS)](https://github.com/GLTdotNS/github-readme-stats)
 
 ## My Projects
 
