@@ -73,7 +73,7 @@ Check out some of my highlighted projects:
 
 
   1. 🌟 [Strivenex](https://www.strivenex.com)
-   Description:Strivenex is a personalized freelance hub I developed from scratch. It connects me with prospective clients for diverse projects, showcases my capabilities, and enables efficient project management and seamless collaboration. The platform is designed to facilitate exceptional work through effective client engagement.
+   Description:Strivenex is a personalized freelance hub I developed from scratch using Next.js 14. It connects me with prospective clients for diverse projects, showcases my capabilities, and enables efficient project management and seamless collaboration. The platform is designed to facilitate exceptional work through effective client engagement.
 
    
 2. 🚀 [NONCREATIVEBLOG](https://www.noncreativeblog.net)
