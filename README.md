@@ -72,8 +72,10 @@ Here are some technologies I enjoy working with:
 Check out some of my highlighted projects:
 
 
-  1. 🌟 [Strivenex](https://www.strivenex.com)
-   Description:Strivenex is a personalized freelance hub I developed from scratch using Next.js 14. It connects me with prospective clients for diverse projects, showcases my capabilities, and enables efficient project management and seamless collaboration. The platform is designed to facilitate exceptional work through effective client engagement.
+  1. 🌟 [SEETHEM]
+  This is  my first networking tool, designed to streamline and enhance network management and monitoring on Linux systems. This tool utilizes Python and Bash to provide a comprehensive suite of networking utilities, making it an indispensable resource for network administrators and enthusiasts.
+
+
 
    
 2. 🚀 [NONCREATIVEBLOG](https://www.noncreativeblog.net)
